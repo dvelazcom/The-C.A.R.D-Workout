@@ -5,3 +5,5 @@ The content in this program is all based on Jeff Nippard's C.A.R.D workout:
 https://static1.squarespace.com/static/52c5a04de4b0dfd4db4a375a/t/5e9bd99e0feebf4d483d6c7b/1587272107662/Jeff+Nippard+-+Card+Workout+-+Final.pdf
 <br>
 Youtube: https://www.youtube.com/user/icecream4PRs
+<hr>
+The createDeck function was pulled from this reddit post: https://www.reddit.com/r/learnpython/comments/2fa0lr/creating_a_standard_52_card_deck_and_then/
